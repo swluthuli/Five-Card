@@ -1,0 +1,16 @@
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/domain/enums/Suit.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/domain/Card.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/FlushRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/ThreeKindRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/OnePairRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/FourKindRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/domain/ValidationParam.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/StraightRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/engine/RuleEngine.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/Application.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/domain/enums/Hand.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/IRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/business/CardGenerator.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/FullHouseRule.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/business/Utils.java
+/Users/siyandaluthuli/Downloads/demo/src/main/java/com/advance/fivehand/validation/rules/TwoPairRule.java

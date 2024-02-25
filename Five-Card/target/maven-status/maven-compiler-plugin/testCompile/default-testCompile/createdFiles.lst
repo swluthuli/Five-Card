@@ -1,0 +1,10 @@
+com/advance/fivehand/validation/rules/FlushRuleTest.class
+com/advance/fivehand/validation/rules/StraightRuleTest.class
+com/advance/fivehand/validation/rules/ThreeKindRuleTest.class
+com/advance/fivehand/validation/rules/FullHouseRuleTest.class
+com/advance/fivehand/DemoApplicationTests.class
+com/advance/fivehand/TestUtils.class
+com/advance/fivehand/validation/rules/FourKindRuleTest.class
+com/advance/fivehand/business/CardGeneratorTest.class
+com/advance/fivehand/validation/rules/TwoPairRuleTest.class
+com/advance/fivehand/validation/rules/OnePairRuleTest.class
